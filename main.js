@@ -1923,7 +1923,7 @@
           (null ===
             (n = Object({
               NODE_ENV: "production",
-              PUBLIC_URL: "",
+              PUBLIC_URL: "https://d35iw2jmbg6ut8.cloudfront.net",
               WDS_SOCKET_HOST: void 0,
               WDS_SOCKET_PATH: void 0,
               WDS_SOCKET_PORT: void 0,
@@ -1934,7 +1934,7 @@
         b = +(
           Object({
             NODE_ENV: "production",
-            PUBLIC_URL: "",
+            PUBLIC_URL: "https://d35iw2jmbg6ut8.cloudfront.net",
             WDS_SOCKET_HOST: void 0,
             WDS_SOCKET_PATH: void 0,
             WDS_SOCKET_PORT: void 0,
@@ -2409,7 +2409,7 @@
           (null ===
             ($ = Object({
               NODE_ENV: "production",
-              PUBLIC_URL: "",
+              PUBLIC_URL: "https://d35iw2jmbg6ut8.cloudfront.net",
               WDS_SOCKET_HOST: void 0,
               WDS_SOCKET_PATH: void 0,
               WDS_SOCKET_PORT: void 0,
@@ -6021,7 +6021,7 @@
           null ===
             (a = Object({
               NODE_ENV: "production",
-              PUBLIC_URL: "",
+              PUBLIC_URL: "https://d35iw2jmbg6ut8.cloudfront.net",
               WDS_SOCKET_HOST: void 0,
               WDS_SOCKET_PATH: void 0,
               WDS_SOCKET_PORT: void 0,
@@ -6166,14 +6166,14 @@
       (void 0 ===
         Object({
           NODE_ENV: "production",
-          PUBLIC_URL: "",
+          PUBLIC_URL: "https://d35iw2jmbg6ut8.cloudfront.net",
           WDS_SOCKET_HOST: void 0,
           WDS_SOCKET_PATH: void 0,
           WDS_SOCKET_PORT: void 0,
         }).REACT_APP_CLIENT_ANALYTICS_ENABLED ||
         Object({
           NODE_ENV: "production",
-          PUBLIC_URL: "",
+          PUBLIC_URL: "https://d35iw2jmbg6ut8.cloudfront.net",
           WDS_SOCKET_HOST: void 0,
           WDS_SOCKET_PATH: void 0,
           WDS_SOCKET_PORT: void 0,
